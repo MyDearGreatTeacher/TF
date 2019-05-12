@@ -11,5 +11,9 @@ TensorFlow深度學習實戰
 機械工業出版社  2019-01-08
 ```
 ```
+Neural Network Programming with Tensorflow
+Manpreet Singh Ghotra, Rajdeep Dua
+November 2017
 
+https://github.com/PacktPublishing/Neural-Network-Programming-with-TensorFlow
 ```
