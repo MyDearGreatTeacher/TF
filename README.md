@@ -9,11 +9,27 @@ TF_1_BasicIntroduction.ipynb
 ```
 單元二:NN
 ```
-1.P
-```
+1.Perceptron, XOR problem and MLP
+Perceptron
+XOR problem
+MLP
 
+手把手實作篇
 ```
+```
+AI4high/NN_具有學習能力的Perceptron_1.ipynb
+https://github.com/MyDearGreatTeacher/AI4high/blob/master/NN_具有學習能力的Perceptron_1.ipynb
+```
+```
+https://github.com/MyDearGreatTeacher/AI4high/blob/master/NN_gradient_descent.ipynb
+```
+```
+2.GD, SGD,MBGD
+BP
 
+TF_NN_2LNN_BP.ipynb
+
+optimizer
 ```
 單元三:CNN
 ```
