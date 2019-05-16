@@ -18,7 +18,11 @@ TF_1_BasicIntroduction.ipynb
 單元三:CNN
 ```
 TF_CNN_MNIST.ipynb	
+```
+```
 TF_CNN_app1_NeuralStyle.ipynb	
+```
+```
 TF_CNN_app2_ＤeepDream.ipynb	
 ```
 ```
