@@ -16,7 +16,14 @@ MLP
 
 手把手實作篇
 ```
+
+
 ```
+2.learning capability of neural networks
+
+AI4high/ML_手把手學線性回歸.ipynb
+
+
 AI4high/NN_具有學習能力的Perceptron_1.ipynb
 https://github.com/MyDearGreatTeacher/AI4high/blob/master/NN_具有學習能力的Perceptron_1.ipynb
 ```
@@ -24,13 +31,14 @@ https://github.com/MyDearGreatTeacher/AI4high/blob/master/NN_具有學習能力�
 https://github.com/MyDearGreatTeacher/AI4high/blob/master/NN_gradient_descent.ipynb
 ```
 ```
-2.GD, SGD,MBGD
+3.GD, SGD,MBGD
 BP
 
 TF_NN_2LNN_BP.ipynb
 
 optimizer
 ```
+
 單元三:CNN
 ```
 TF_CNN_MNIST.ipynb	
