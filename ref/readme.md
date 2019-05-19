@@ -7,6 +7,17 @@ https://github.com/moono/tf-eager-on-GAN
 https://github.com/Viredery/tf-eager-fasterrcnn
 https://github.com/github/gitignore/blob/master/Python.gitignore
 ```
+
 ```
+https://github.com/MachineLP/Tensorflow-
+```
+```
+LeNet手把手實作教學
+
+```
+
+```
+Tensorflow一些常用基本概念与函数（4）
+https://blog.csdn.net/lenbow/article/details/52218551
 
 ```
